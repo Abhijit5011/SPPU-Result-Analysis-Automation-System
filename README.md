@@ -4,7 +4,7 @@
   <a href="https://drive.google.com/drive/folders/1GmY89tYZ77EteV1bgKYQj2Tzor0yHA_Z?usp=sharing">
     <img src="https://img.shields.io/badge/Output%20Demo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Output Demo">
   </a>
-  <a href="YOUR_GITHUB_REPO_URL">
+  <a href="https://github.com/Abhijit5011/SPPU-Result-Analysis-Automation-System">
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
   </a>
   <a href="https://youtu.be/GoRSOI0MsP0">
